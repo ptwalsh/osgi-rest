@@ -67,6 +67,7 @@
                         </goals>
                         <configuration>
                             <featuresFile>target/classes/features.xml</featuresFile>
+                            <finalName>testcxf</finalName>
                         </configuration>
                     </execution>
                 </executions>
