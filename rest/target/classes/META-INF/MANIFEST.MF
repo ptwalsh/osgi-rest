@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1448695101294
-Build-Jdk: 1.8.0_60
-Built-By: nishadh
+Bnd-LastModified: 1709722612847
+Build-Jdk: 18.0.2
+Built-By: peter
 Bundle-ManifestVersion: 2
 Bundle-Name: rest
 Bundle-SymbolicName: rest
